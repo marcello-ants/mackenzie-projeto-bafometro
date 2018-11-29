@@ -1,0 +1,22 @@
+{
+  "name": "mackenzie-projeto-bafometro",
+  "version": "1.0.0",
+  "description": "projeto de arduino - objetos inteligentes",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelloantunes/mackenzie-projeto-bafometro.git"
+  },
+  "author": "allan yuji, breno vasconcelos, marcello antunes, tonny lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelloantunes/mackenzie-projeto-bafometro/issues"
+  },
+  "homepage": "https://github.com/marcelloantunes/mackenzie-projeto-bafometro#readme"
+}
